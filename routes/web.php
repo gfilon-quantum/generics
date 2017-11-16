@@ -12,5 +12,5 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return '<h1>¿ Por qué no googleás ESTA ?</h1>';
 });
